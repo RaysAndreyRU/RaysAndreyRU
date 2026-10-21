@@ -116,9 +116,9 @@ Groundborn includes a public client, administrative workflows, authentication, r
 
 ### Rehub
 
-An open-source rehabilitation management platform built around the workflows of patients, doctors, and administrators.
+A private full-stack rehabilitation management platform built around the workflows of patients, doctors, and administrators.
 
-The platform covers exercise catalogs, rehabilitation program templates, patient assignments, doctor-patient relationships, clinical red-flag and recommendation rules, a knowledge base, analytics, security auditing, reports, and PDF export. Its architecture is separated into a patient-facing application, an administrative panel, a modular backend, and dedicated business and technical documentation.
+The platform covers exercise catalogs, rehabilitation program templates, patient assignments, doctor-patient relationships, clinical red-flag and recommendation rules, a knowledge base, analytics, security auditing, reports, and PDF export. Its modular architecture spans the patient-facing frontend, administrative frontend, and NestJS backend, complemented by dedicated business and technical documentation.
 
 **Stack:** Next.js, React, TypeScript, Feature-Sliced Design, NestJS, Prisma, PostgreSQL, Redis, MinIO, React Query, Zod, NextAuth, Docker
 
