@@ -93,7 +93,7 @@ Selected work across **Lumia**, **Fundamental Hospitality**, and other NDA-cover
 
 An engineering intelligence platform that consolidates signals from development and collaboration tools into project analytics, operational risk indicators, alerts, and AI-assisted reports.
 
-The system demonstrates modular frontend and backend architecture, background processing, OAuth integrations, role-based access control, encrypted provider credentials, deterministic API mocks, and comprehensive automated testing.
+The system demonstrates Feature-Sliced Design across both the admin frontend and public landing, modular backend architecture, background processing, OAuth integrations, role-based access control, encrypted provider credentials, deterministic API mocks, and comprehensive automated testing.
 
 **Stack:** React, TypeScript, Feature-Sliced Design, NestJS, Prisma, PostgreSQL, Redis, RabbitMQ, Docker, Playwright, Vitest
 
