@@ -1,3 +1,10 @@
+<!-- Keep section structure and project links synchronized with README.ru.md. -->
+
+<p align="right">
+  <strong>🇬🇧 English</strong> ·
+  <a href="./README.ru.md">🇷🇺 Русский</a>
+</p>
+
 <div align="center">
 
 # Andrey Rays
