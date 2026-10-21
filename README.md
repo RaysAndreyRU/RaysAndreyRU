@@ -133,8 +133,6 @@ Reference applications demonstrating wallet-based authentication and Web3 produc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaysAndreyRU&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Andrey Rays GitHub statistics" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaysAndreyRU&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true" alt="Andrey Rays most used languages" />
 
 </div>
