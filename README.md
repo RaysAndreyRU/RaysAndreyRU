@@ -92,8 +92,9 @@ The system demonstrates modular frontend and backend architecture, background pr
 
 [![Product Site](https://img.shields.io/badge/Product_Site-TraceAxios-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://lumia-trace-web.vercel.app)
 [![Admin Demo](https://img.shields.io/badge/Admin-Application-2563EB?style=flat-square&logo=react&logoColor=white)](https://lumia-trace-admin.vercel.app)
+[![Engineering Showcase](https://img.shields.io/badge/Engineering-Showcase-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/traceaxios-showcase)
 
-<sub>Source code is currently private. Architecture, test strategy, and implementation details are available for technical review.</sub>
+<sub>Production source remains private. A portfolio-safe architecture case study and runnable TypeScript vertical slice are available in the engineering showcase.</sub>
 
 ### Groundborn
 
