@@ -9,7 +9,7 @@
 
 # Andrey Rays
 
-### Middle Fullstack Developer · Web3 Engineer
+### Middle+ Fullstack Developer · Web3 Engineer
 
 I design and deliver production systems end to end — from frontend architecture and distributed backend services to smart contracts, infrastructure, and CI/CD.
 
