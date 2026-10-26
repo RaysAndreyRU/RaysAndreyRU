@@ -105,9 +105,9 @@ The system demonstrates Feature-Sliced Design across both the admin frontend and
 
 ### Groundborn
 
-A full-stack esports ecosystem for managing tournaments, teams, players, registrations, matches, brackets, and competition schedules.
+A work-in-progress full-stack esports platform for managing tournaments, teams, players, registrations, matches, brackets, and competition schedules.
 
-Groundborn includes a public client, administrative workflows, authentication, role-based access, monitoring, SEO, internationalization, and a modular domain-oriented architecture.
+The current implementation provides frontend and infrastructure foundations, authentication, monitoring, SEO, internationalization, and executable tournament-domain prototypes. Core competition workflows remain under active development.
 
 **Stack:** Next.js, React, TypeScript, NestJS, PostgreSQL, React Query, Zustand, Tailwind CSS, NextAuth, MSW, Sentry
 
@@ -133,8 +133,8 @@ The platform covers exercise catalogs, rehabilitation program templates, patient
 
 Reference applications demonstrating wallet-based authentication and Web3 product integration through Lumia Passport:
 
-- [Web3 Notes Frontend](https://github.com/RaysAndreyRU/web3-notes-dapp-frontend) — Next.js client for managing encrypted personal notes.
-- [Web3 Notes Backend](https://github.com/RaysAndreyRU/web3-notes-dapp-backend) — NestJS and Prisma API with session validation and encrypted storage.
+- [Web3 Notes Frontend](https://github.com/RaysAndreyRU/web3-notes-dapp-frontend) — React and Vite client demonstrating Lumia Passport authentication and client-side note encryption.
+- [Web3 Notes Backend](https://github.com/RaysAndreyRU/web3-notes-dapp-backend) — NestJS and Prisma API with session validation and ciphertext persistence.
 - [Web3 Tasks Frontend](https://github.com/RaysAndreyRU/web3-tasks-dapp-frontend) — client application for Web3 bounty workflows.
 - [Web3 Tasks Backend](https://github.com/RaysAndreyRU/web3-tasks-dapp-backend) — backend with Lumia Passport authentication and Telegram verification.
 

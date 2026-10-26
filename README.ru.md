@@ -105,9 +105,9 @@ Fullstack TypeScript Engineer и Web3 Engineer с **4+ годами коммер
 
 ### Groundborn
 
-Полностековая киберспортивная экосистема для управления турнирами, командами, игроками, регистрациями, матчами, турнирными сетками и расписаниями.
+Развивающаяся full-stack киберспортивная платформа для управления турнирами, командами, игроками, регистрациями, матчами, турнирными сетками и расписаниями.
 
-Groundborn включает публичный клиент, административные сценарии, аутентификацию, ролевой доступ, мониторинг, SEO, интернационализацию и модульную доменную архитектуру.
+Текущая реализация включает frontend- и инфраструктурную основу, аутентификацию, мониторинг, SEO, интернационализацию и запускаемые прототипы турнирного домена. Основные соревновательные сценарии находятся в активной разработке.
 
 **Стек:** Next.js, React, TypeScript, NestJS, PostgreSQL, React Query, Zustand, Tailwind CSS, NextAuth, MSW, Sentry
 
@@ -133,8 +133,8 @@ Groundborn включает публичный клиент, администр�
 
 Референсные приложения, демонстрирующие wallet-based аутентификацию и интеграцию Web3-продукта через Lumia Passport:
 
-- [Web3 Notes Frontend](https://github.com/RaysAndreyRU/web3-notes-dapp-frontend) — Next.js-клиент для управления зашифрованными личными заметками.
-- [Web3 Notes Backend](https://github.com/RaysAndreyRU/web3-notes-dapp-backend) — API на NestJS и Prisma с валидацией сессий и зашифрованным хранением.
+- [Web3 Notes Frontend](https://github.com/RaysAndreyRU/web3-notes-dapp-frontend) — клиент на React и Vite, демонстрирующий аутентификацию Lumia Passport и клиентское шифрование заметок.
+- [Web3 Notes Backend](https://github.com/RaysAndreyRU/web3-notes-dapp-backend) — API на NestJS и Prisma с валидацией сессий и хранением шифротекста.
 - [Web3 Tasks Frontend](https://github.com/RaysAndreyRU/web3-tasks-dapp-frontend) — клиентское приложение для Web3 bounty-сценариев.
 - [Web3 Tasks Backend](https://github.com/RaysAndreyRU/web3-tasks-dapp-backend) — backend с аутентификацией Lumia Passport и Telegram-верификацией.
 
