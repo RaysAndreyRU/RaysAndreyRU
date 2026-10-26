@@ -51,6 +51,8 @@ Fullstack TypeScript Engineer и Web3 Engineer с **4+ годами коммер
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
@@ -60,6 +62,11 @@ Fullstack TypeScript Engineer и Web3 Engineer с **4+ годами коммер
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=00DC82)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)
+![Effector](https://img.shields.io/badge/Effector-0E1428?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 ![Feature-Sliced Design](https://img.shields.io/badge/Feature--Sliced_Design-5A67D8?style=flat-square)
 ![SSR](https://img.shields.io/badge/Server--Side_Rendering-111827?style=flat-square)
 
