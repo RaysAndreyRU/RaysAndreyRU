@@ -9,7 +9,7 @@
 
 # Andrey Rays
 
-### Middle+ Fullstack Developer · Web3 Engineer
+### Fullstack TypeScript Engineer · Web3 Engineer
 
 I design and deliver production systems end to end — from frontend architecture and distributed backend services to smart contracts, infrastructure, and CI/CD.
 
@@ -21,7 +21,7 @@ I design and deliver production systems end to end — from frontend architectur
 
 ## Profile
 
-Middle Fullstack Developer and Web3 Engineer with **4+ years of commercial experience** building SaaS products, DeFi applications, high-load web platforms, and distributed systems.
+Fullstack TypeScript Engineer and Web3 Engineer with **4+ years of commercial experience** building SaaS products, DeFi applications, high-load web platforms, and distributed systems.
 
 I take products from technical discovery to production: domain modeling, system architecture, frontend and backend development, smart-contract integration, automated testing, observability, and deployment. I have worked with distributed international teams and can own complex technical areas independently while keeping implementation aligned with business requirements.
 
@@ -147,7 +147,7 @@ Reference applications demonstrating wallet-based authentication and Web3 produc
 
 ## Contact
 
-I am open to Middle Fullstack and Web3 engineering opportunities, technically challenging products, and distributed international teams.
+I am open to Fullstack TypeScript and Web3 engineering opportunities, technically challenging products, and distributed international teams.
 
 - **Telegram:** [@RaysRU](https://t.me/RaysRU)
 - **Email:** [raysandreyru@gmail.com](mailto:raysandreyru@gmail.com)
