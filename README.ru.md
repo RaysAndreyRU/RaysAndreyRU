@@ -11,7 +11,7 @@
 
 ### Fullstack TypeScript Engineer · Web3 Engineer
 
-Проектирую и довожу до production системы целиком: от frontend-архитектуры и распределённых backend-сервисов до смарт-контрактов, инфраструктуры и CI/CD.
+Проектирую и довожу до production системы целиком: от frontend-архитектуры и распределённых backend-сервисов до Web3-интеграций, инфраструктуры и CI/CD.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@RaysRU-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RaysRU)
 [![Email](https://img.shields.io/badge/Email-raysandreyru%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raysandreyru@gmail.com)
@@ -29,14 +29,14 @@ Fullstack TypeScript Engineer и Web3 Engineer с **4+ годами коммер
 
 - **Веб-приложения:** масштабируемые frontend-приложения на React, Next.js, Vue.js и Nuxt.js с SSR, предсказуемым управлением состоянием и Feature-Sliced Design.
 - **Распределённый backend:** NestJS-сервисы, gRPC, Kafka-процессы, фоновая обработка, кеширование и интеграции с большими объёмами данных.
-- **Web3-системы:** Solidity, EVM-совместимые сети, Lumia Chain, Ethereum, мосты, свопы, NFT и wallet-based аутентификация.
+- **Web3-системы:** EVM-совместимые сети, интеграция смарт-контрактов, мосты, свопы, NFT и wallet-based аутентификация.
 - **Platform Engineering:** Docker, Kubernetes, Helm, CI/CD, управление секретами, production-диагностика и облачные хранилища.
 
 ## Коммерческий опыт
 
 Выбранные направления работы в **Lumia**, **Fundamental Hospitality** и других проектах под NDA:
 
-- Разрабатывал и интегрировал смарт-контракты для кроссчейн-мостов, токен-свопов, NFT-сценариев и EVM-продуктов в Lumia Chain и Ethereum.
+- Интегрировал смарт-контракты для кроссчейн-мостов, токен-свопов, NFT-сценариев и продуктов в EVM-совместимых сетях.
 - Проектировал микросервисную архитектуру на NestJS, gRPC и Apache Kafka, включая асинхронные процессы и межсервисное взаимодействие.
 - Создавал high-load системы планирования и workforce management со сложными доменными правилами и сторонними интеграциями.
 - Реализовывал аутентификацию и авторизацию на OAuth 2.0, RBAC, JWT и сессиях, а также синхронизацию через webhooks.
@@ -51,7 +51,6 @@ Fullstack TypeScript Engineer и Web3 Engineer с **4+ годами коммер
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend

@@ -11,7 +11,7 @@
 
 ### Fullstack TypeScript Engineer · Web3 Engineer
 
-I design and deliver production systems end to end — from frontend architecture and distributed backend services to smart contracts, infrastructure, and CI/CD.
+I design and deliver production systems end to end — from frontend architecture and distributed backend services to Web3 integrations, infrastructure, and CI/CD.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@RaysRU-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RaysRU)
 [![Email](https://img.shields.io/badge/Email-raysandreyru%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raysandreyru@gmail.com)
@@ -29,14 +29,14 @@ My core engineering focus:
 
 - **Web applications:** scalable React, Next.js, Vue.js, and Nuxt.js frontends with SSR, predictable state management, and Feature-Sliced Design.
 - **Distributed backends:** NestJS services, gRPC communication, Kafka-based workflows, background processing, caching, and data-intensive integrations.
-- **Web3 systems:** Solidity, EVM-compatible networks, Lumia Chain, Ethereum, bridges, swaps, NFTs, and wallet-based authentication.
+- **Web3 systems:** EVM-compatible networks, smart-contract integrations, bridges, swaps, NFTs, and wallet-based authentication.
 - **Platform engineering:** Docker, Kubernetes, Helm, CI/CD, secrets management, production diagnostics, and cloud storage.
 
 ## Commercial Experience
 
 Selected work across **Lumia**, **Fundamental Hospitality**, and other NDA-covered products:
 
-- Developed and integrated smart contracts for cross-chain bridges, token swaps, NFT workflows, and EVM-based products across Lumia Chain and Ethereum.
+- Integrated smart contracts for cross-chain bridges, token swaps, NFT workflows, and products across EVM-compatible networks.
 - Designed microservice architectures with NestJS, gRPC, and Apache Kafka, including asynchronous workflows and service-to-service communication.
 - Built high-load scheduling and workforce-management systems with complex domain rules and third-party integrations.
 - Implemented authentication and authorization using OAuth 2.0, RBAC, JWT, session management, and webhook-driven synchronization.
@@ -51,7 +51,6 @@ Selected work across **Lumia**, **Fundamental Hospitality**, and other NDA-cover
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
