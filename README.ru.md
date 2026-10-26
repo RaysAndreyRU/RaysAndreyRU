@@ -111,8 +111,10 @@ Groundborn включает публичный клиент, администр�
 
 **Стек:** Next.js, React, TypeScript, NestJS, PostgreSQL, React Query, Zustand, Tailwind CSS, NextAuth, MSW, Sentry
 
-[![Исходники клиента](https://img.shields.io/badge/Client-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/groundborn-app)
+[![Инженерный showcase](https://img.shields.io/badge/Engineering-Showcase-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/groundborn-showcase)
 [![Демо админки](https://img.shields.io/badge/Admin-Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://admin-groundborn.vercel.app)
+
+<sub>Production-код остаётся приватным. Публичный showcase описывает текущую архитектуру и статус реализации, а также содержит запускаемые TypeScript-прототипы.</sub>
 
 ### Rehub
 
@@ -122,11 +124,10 @@ Groundborn включает публичный клиент, администр�
 
 **Стек:** Next.js, React, TypeScript, Feature-Sliced Design, NestJS, Prisma, PostgreSQL, Redis, MinIO, React Query, Zod, NextAuth, Docker
 
-[![Веб-приложение](https://img.shields.io/badge/Web-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-web)
-[![Админка](https://img.shields.io/badge/Admin-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-admin)
-[![Backend](https://img.shields.io/badge/Backend-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-backend)
-[![Документация](https://img.shields.io/badge/Architecture-Documentation-0F172A?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/RaysAndreyRU/rehub-docs)
+[![Инженерный showcase](https://img.shields.io/badge/Engineering-Showcase-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-showcase)
 [![Демо админки](https://img.shields.io/badge/Admin-Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://rehub-admin.vercel.app)
+
+<sub>Production-репозитории остаются приватными. Публичный showcase содержит архитектуру, инженерные case studies и запускаемые TypeScript vertical slices.</sub>
 
 ### Lumia Passport Web3 Applications
 

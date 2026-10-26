@@ -111,8 +111,10 @@ Groundborn includes a public client, administrative workflows, authentication, r
 
 **Stack:** Next.js, React, TypeScript, NestJS, PostgreSQL, React Query, Zustand, Tailwind CSS, NextAuth, MSW, Sentry
 
-[![Client Source](https://img.shields.io/badge/Client-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/groundborn-app)
+[![Engineering Showcase](https://img.shields.io/badge/Engineering-Showcase-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/groundborn-showcase)
 [![Admin Demo](https://img.shields.io/badge/Admin-Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://admin-groundborn.vercel.app)
+
+<sub>Production source remains private. The public showcase documents the current architecture, implementation status, and executable TypeScript design prototypes.</sub>
 
 ### Rehub
 
@@ -122,11 +124,10 @@ The platform covers exercise catalogs, rehabilitation program templates, patient
 
 **Stack:** Next.js, React, TypeScript, Feature-Sliced Design, NestJS, Prisma, PostgreSQL, Redis, MinIO, React Query, Zod, NextAuth, Docker
 
-[![Web Application](https://img.shields.io/badge/Web-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-web)
-[![Admin Panel](https://img.shields.io/badge/Admin-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-admin)
-[![Backend](https://img.shields.io/badge/Backend-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-backend)
-[![Documentation](https://img.shields.io/badge/Architecture-Documentation-0F172A?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/RaysAndreyRU/rehub-docs)
+[![Engineering Showcase](https://img.shields.io/badge/Engineering-Showcase-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/RaysAndreyRU/rehub-showcase)
 [![Admin Demo](https://img.shields.io/badge/Admin-Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://rehub-admin.vercel.app)
+
+<sub>Production repositories remain private. The public showcase contains the architecture, engineering case studies, and runnable TypeScript vertical slices.</sub>
 
 ### Lumia Passport Web3 Applications
 
